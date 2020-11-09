@@ -1,9 +1,13 @@
 # java_waves
+
+by Prof. Robert A. Dalrymple,
+
 Animations used in the Coastal Hydraulics course at Lund University.
 
-These files, created by Prof. Robert A. Dalrymple, are being hosted as a backup at https://dalrymple-linear-waves.netlify.app/
-Apparently the original site (http://www.coastal.udel.edu/faculty/rad/index.html) is broken, I found these files at http://homepages.cae.wisc.edu/~chinwu/Coastal_Java/ and decided to also host it here.
+The files are now hosted as a backup at https://dalrymple-linear-waves.netlify.app/
 
-To run these java applets in modern browsers, I recommend using the Google Chrome extension called [CheerpJ Applet Runner](https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein).
+Apparently, the original [site](http://www.coastal.udel.edu/faculty/rad/index.html) is broken. I found an alternative [link](http://homepages.cae.wisc.edu/~chinwu/Coastal_Java/) for the files and decided to also host them here.
+
+To run these java applets in modern browsers, use the Google Chrome extension called [CheerpJ Applet Runner](https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein).
 
 
